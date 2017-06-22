@@ -1,5 +1,5 @@
-# Data Literacy workshop - United Nations Syst. Staff College<br>28 juin 2017 - Nairobi
-Leveraging Open Data for social good<br>
+# Data Literacy workshop - United Nations Syst. Staff College
+Leveraging Open Data for social good - 28 juin 2017 - Nairobi
 *Thomas Roca, Phd, Researcher and Data Officer @Agence Française de Développement*
 
 Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://github.com/ThomasRoca/) or [LinkedIn](https://www.linkedin.com/in/thomas-roca-43347484/)
