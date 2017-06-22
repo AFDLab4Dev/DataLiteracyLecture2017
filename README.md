@@ -1,4 +1,4 @@
-# The Data Literacy Lecture - United Nations System Staff College <br> 28 juin 2017 - Nairobi
+# Data Literacy workshop - United Nations System Staff College <br> 28 juin 2017 - Nairobi
 Leveraging Open Data for social good<br>
 *Thomas Roca, Phd, Researcher and Data Officer @Agence Française de Développement*
 
