@@ -27,7 +27,7 @@ We are also going to use:
 
 ---
 
-**Practical: Create a heatmap with Carto [25min]**
+**Practical: Create a heatmap with Carto [35min]**
   
 --- 
 
@@ -43,7 +43,7 @@ We are also going to use:
 
 ---
 
-**Practical: Create a DataStory with Highcharts and Carto [20min]**
+**Practical: Create a DataStory with Highcharts and Carto [30min]**
    + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
 
 --- 
@@ -60,16 +60,13 @@ We are also going to use:
 **IV. Getting real time data: from scrapper to API, the data revolution: [20min]**
 - Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
 -  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
-	+ [Example on JSFiddle](http://jsfiddle.net/ThomasRoca/0eata2p0/)
 -  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
 
-  
+ 
 ---
 
-**Pratical: buidling a Vélib application [40min] // or DHS application**
-   + using [Velib API](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted)
-   	+ snipet on [JSFiddle](http://jsfiddle.net/ThomasRoca/zceqa7jf/)
-   + expected output: [Appli vélib AFD](http://data.afd.fr/DataTools/V%C3%A9libAFD.html)
+**Pratical: Use world bank API [25min] // or DHS application**
+	+ [Example on JSFiddle](http://jsfiddle.net/ThomasRoca/0eata2p0/)
    
 ---   	
 	
