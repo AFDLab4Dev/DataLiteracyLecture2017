@@ -50,7 +50,8 @@ We are also going to use:
 
 **A tiny bit of code [20min]**
 - 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
-	+ [Example of JavaSript Language](https://jsfiddle.net/ThomasRoca/50snpv6r/) 	
+	+ [Example of JavaSript Language](https://jsfiddle.net/ThomasRoca/50snpv6r/)
+
 ** When data comes in**
 	+ Data are not only stored in xls!
 	+ Text format to store data:
