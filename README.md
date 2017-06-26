@@ -27,8 +27,9 @@ We are also going to use:
 
 ---
 
-**Practical: Create a heatmap with Carto [35min]**
-  
+**Practical: Create a heatmap with Carto [30min]**
+  - map Kenya Health sites using CSV file from HDX plateform;
+  - Map Kenya Population projection by County using data from HDX 
 --- 
 
 **II. Basic instroduction to the web languages: HTML, CSS, JavaScript [20min]**
@@ -46,13 +47,15 @@ We are also going to use:
 
 --- 
 
-**III. Data and programmming for the web: [20min]**
+- **Part II. 14.00** 
+
+**III. Data and programmming for the web: [40min]**
 
 **A tiny bit of code [20min]**
 - 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
 	+ [Example of JavaSript Language](https://jsfiddle.net/ThomasRoca/50snpv6r/)
 
-**When data comes in**
+**When data comes in [10min]**
 - Data are not only stored in xls!
 	+ Text format to store data:
 		CSVs, TSVs, etc.
@@ -61,7 +64,7 @@ We are also going to use:
 		+ Intro to [JSON](https://en.wikipedia.org/wiki/JSON)
 		+ Intro to YAML
 		
-**IV. Getting real time data: from scrapper to API, the data revolution: [20min]**
+**IV. Getting real time data: from scrapper to API, the data revolution: [10min]**
 - Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
 -  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
 -  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
@@ -69,7 +72,7 @@ We are also going to use:
  
 ---
 
-**Pratical: Use world bank API & the DHS application [40min]** 
+**Pratical: Use world bank API & the DHS application [50min]** 
 - World bank [API](https://datahelpdesk.worldbank.org/knowledgebase/articles/898581-api-basic-call-structure)
 	- GDP growth (annual %) of Kenya (WDI)
 	- last 20 observation
