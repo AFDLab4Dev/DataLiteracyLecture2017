@@ -34,7 +34,8 @@ We are also going to use:
 **II. Basic instroduction to the web languages: HTML, CSS, JavaScript [20min]**
 -	Basic introduction to [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp)
 - 	Introduction to [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
-** JavaScript library & dataviz**
+
+**JavaScript library & dataviz**
 - 	dataviz the example of [Highcharts](https://www.highcharts.com/)
 - 	SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
 
