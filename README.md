@@ -43,7 +43,7 @@ We are also going to use:
 
 ---
 
-**Practical: Create a DataStory with Highcharts and Carto [30min]**
+**Practical: Create a DataStory with Highcharts and Carto [20min]**
    + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
 
 --- 
