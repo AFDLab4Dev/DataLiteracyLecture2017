@@ -65,9 +65,16 @@ We are also going to use:
  
 ---
 
-**Pratical: Use world bank API [25min] // or DHS application**
-	+ [Example on JSFiddle](http://jsfiddle.net/ThomasRoca/0eata2p0/)
-   
+**Pratical: Use world bank API [25min] & the DHS application**
+- World bank [API](https://datahelpdesk.worldbank.org/knowledgebase/articles/898581-api-basic-call-structure)
+	- GDP growth (annual %) of Kenya (WDI)
+	- last 20 observation
+   	- using highcharts
+- DHS [API](https://api.dhsprogram.com/#/api-querybuilder.cfm)
+	- Create a heatmap using [leaflet](http://leafletjs.com/examples/choropleth/)
+	- display age specific literacy rate 15-19
+	- subnational level in Kenya
+	- for the last DHS available
 ---   	
 	
 ## Further reading:
