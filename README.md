@@ -65,7 +65,7 @@ We are also going to use:
  
 ---
 
-**Pratical: Use world bank API [25min] & the DHS application**
+**Pratical: Use world bank API & the DHS application [40min]** 
 - World bank [API](https://datahelpdesk.worldbank.org/knowledgebase/articles/898581-api-basic-call-structure)
 	- GDP growth (annual %) of Kenya (WDI)
 	- last 20 observation
