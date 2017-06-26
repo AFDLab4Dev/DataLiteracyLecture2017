@@ -52,8 +52,8 @@ We are also going to use:
 - 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
 	+ [Example of JavaSript Language](https://jsfiddle.net/ThomasRoca/50snpv6r/)
 
-** When data comes in**
-	+ Data are not only stored in xls!
+**When data comes in**
+- Data are not only stored in xls!
 	+ Text format to store data:
 		CSVs, TSVs, etc.
 	+ Structured text data:
