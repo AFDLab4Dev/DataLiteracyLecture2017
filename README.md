@@ -34,10 +34,7 @@ We are also going to use:
 **II. Basic instroduction to the web languages: HTML, CSS, JavaScript [20min]**
 -	Basic introduction to [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp)
 - 	Introduction to [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
-
-**A tiny bit of code [20min]**
-- 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
-	+ [Example of JavaSript Language](https://jsfiddle.net/ThomasRoca/50snpv6r/) 	
+** JavaScript library & dataviz**
 - 	dataviz the example of [Highcharts](https://www.highcharts.com/)
 - 	SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
 
@@ -47,8 +44,13 @@ We are also going to use:
    + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
 
 --- 
- 
+
 **III. Data and programmming for the web: [20min]**
+
+**A tiny bit of code [20min]**
+- 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
+	+ [Example of JavaSript Language](https://jsfiddle.net/ThomasRoca/50snpv6r/) 	
+** When data comes in**
 	+ Data are not only stored in xls!
 	+ Text format to store data:
 		CSVs, TSVs, etc.
