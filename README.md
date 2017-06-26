@@ -29,7 +29,7 @@ We are also going to use:
 
 **Practical: Create a heatmap with Carto [30min]**
   - map Kenya Health sites using CSV file from HDX plateform;
-  - Map Kenya Population projection by County using data from HDX 
+  - Map Cameroon population in 2015 using the data in the Github folder (CMR sub)
 --- 
 
 **II. Basic instroduction to the web languages: HTML, CSS, JavaScript [20min]**
