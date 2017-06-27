@@ -55,8 +55,10 @@ We are also going to use:
 		+ Intro to [JSON](https://en.wikipedia.org/wiki/JSON)
 		+ Intro to YAML
 	
+---
 
-- **Part II. 14.00** 
+### Part II. 14.00
+---
 
 **IV. Getting real time data: from scrapper to API, the data revolution: [20min]**
 - Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
