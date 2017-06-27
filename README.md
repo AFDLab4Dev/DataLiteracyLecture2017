@@ -40,16 +40,7 @@ We are also going to use:
 - 	dataviz the example of [Highcharts](https://www.highcharts.com/)
 - 	SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
 
----
-
-**Practical: Create a DataStory with Highcharts and Carto [20min]**
-   + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
-
---- 
-
-- **Part II. 14.00** 
-
-**III. Data and programmming for the web: [40min]**
+**III. Data and programmming for the web: [30min]**
 
 **A tiny bit of code [20min]**
 - 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
@@ -63,8 +54,11 @@ We are also going to use:
 		+ Intro to XML
 		+ Intro to [JSON](https://en.wikipedia.org/wiki/JSON)
 		+ Intro to YAML
-		
-**IV. Getting real time data: from scrapper to API, the data revolution: [10min]**
+	
+
+- **Part II. 14.00** 
+
+**IV. Getting real time data: from scrapper to API, the data revolution: [20min]**
 - Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
 -  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
 -  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
@@ -72,7 +66,12 @@ We are also going to use:
  
 ---
 
-**Pratical: Use world bank API & the DHS application [50min]** 
+
+**Practical: Option A. Create a DataStory with Highcharts and Carto**
+   + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
+
+--- 
+**Pratical: OPtion B. Use world bank API & the DHS application** 
 - World bank [API](https://datahelpdesk.worldbank.org/knowledgebase/articles/898581-api-basic-call-structure)
 	- GDP growth (annual %) of Kenya (WDI)
 	- last 20 observation
