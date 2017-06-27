@@ -69,6 +69,11 @@ We are also going to use:
 
 **Practical: Option A. Create a DataStory with Highcharts and Carto**
    + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
+   It can be about :
+   - health
+   - Education
+   - sociaux economic conditions etc.
+   You can use data sources such as the World Bank indicators, UN OCHA HDX platform, etc.
 
 --- 
 **Pratical: OPtion B. Use world bank API & the DHS application** 
