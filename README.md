@@ -108,6 +108,7 @@ We are also going to use:
 	- [Javascripy](http://jsfiddle.net/ThomasRoca/50snpv6r/)
 	- [parse JSON data](http://jsfiddle.net/ThomasRoca/5f4jh80c)
 	- [World Bank Application](http://jsfiddle.net/ThomasRoca/1vpypyc9)
+	- [API WDI](http://jsfiddle.net/ThomasRoca/0eata2p0)
 - **Highcharts:**
 	- https://www.highcharts.com/demo
 	- https://www.highcharts.com/blog/
