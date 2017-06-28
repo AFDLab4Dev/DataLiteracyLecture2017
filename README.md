@@ -101,6 +101,13 @@ We are also going to use:
 - Hagley, J. What is the difference bewteen infographic and dataviz ? [Link](http://www.jackhagley.com/What-s-the-difference-between-an-Infographic-and-a-Data-Visualisation)
 
 ### Tutorials
+- **Code sample we saw on JSfiddle**:
+	- [SVG](http://jsfiddle.net/ThomasRoca/q754amnd/)
+	- [highcharts](http://jsfiddle.net/ThomasRoca/fps87ooa)
+	- [leaflet](http://leafletjs.com/examples/quick-start/example-popups.html)
+	- [Javascripy](http://jsfiddle.net/ThomasRoca/50snpv6r/)
+	- [parse JSON data](http://jsfiddle.net/ThomasRoca/5f4jh80c)
+	- [World Bank Application](http://jsfiddle.net/ThomasRoca/1vpypyc9)
 - **Highcharts:**
 	- https://www.highcharts.com/demo
 	- https://www.highcharts.com/blog/
