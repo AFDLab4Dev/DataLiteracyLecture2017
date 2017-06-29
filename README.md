@@ -105,7 +105,7 @@ We are also going to use:
 	- [SVG](http://jsfiddle.net/ThomasRoca/q754amnd/)
 	- [highcharts](http://jsfiddle.net/ThomasRoca/fps87ooa)
 	- [leaflet](http://leafletjs.com/examples/quick-start/example-popups.html)
-	- [Javascripy](http://jsfiddle.net/ThomasRoca/50snpv6r/)
+	- [Javascript](http://jsfiddle.net/ThomasRoca/50snpv6r/)
 	- [parse JSON data](http://jsfiddle.net/ThomasRoca/5f4jh80c)
 	- [World Bank Application](http://jsfiddle.net/ThomasRoca/1vpypyc9)
 	- [API WDI](http://jsfiddle.net/ThomasRoca/0eata2p0)
