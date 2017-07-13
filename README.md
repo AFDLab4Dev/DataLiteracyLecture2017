@@ -1,4 +1,4 @@
-# Formation Data literacy
+# Formation Data literacy - AFD
 **Agence Française de Développement - 19 juin 2017 - Paris**<br>
 *Equipe transformation numérique - Agence Française de Développement*
 
