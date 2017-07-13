@@ -4,9 +4,7 @@
 
 Retrouvez-nous sur [Github](https://github.com/AFDLab4Dev/)
 
-#### Dataviz workshop: [Lecture slides available](http://stats4dev.com/prez/Dataviz+et+Datastory+Workshop+-+UNSSC+Nairobi.html)
-
-**Tools we are going to use:**
+**Outils que nous allons utiliser:**
 For this workshop, you will need to install a code editor (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights);
 
 We are also going to use: 
