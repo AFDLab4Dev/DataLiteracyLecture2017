@@ -2,7 +2,7 @@
 **Agence Française de Développement - 19 juin 2017 - Paris**<br>
 *Equipe transformation numérique - Agence Française de Développement*
 
-Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://github.com/ThomasRoca/) or [LinkedIn](https://www.linkedin.com/in/thomas-roca-43347484/)
+Stay in touch via [Github](https://github.com/AFDLab4Dev/)
 
 #### Dataviz workshop: [Lecture slides available](http://stats4dev.com/prez/Dataviz+et+Datastory+Workshop+-+UNSSC+Nairobi.html)
 
