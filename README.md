@@ -5,13 +5,13 @@
 Retrouvez-nous sur [Github](https://github.com/AFDLab4Dev/)
 
 **Outils que nous allons utiliser:**
-For this workshop, you will need to install a code editor (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights);
+Pour cet atelier, vous aurez besoin d'installer un éditeur de code (ex. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), ces editeurs peuvent être installés sans droits administrateurs de votre poste);
 
-We are also going to use: 
-- 	**JSFiddle**, a javascript online editor [sign up here - free](https://jsfiddle.net/user/signup/)
-- 	**Carto** an online map editor [sign up here - free](https://carto.com/signup/)
+Nous utiliserons également: 
+- 	**JSFiddle**, un éditeur en ligne de JavaScript [sign up here - free](https://jsfiddle.net/user/signup/)
+- 	**Carto** un éditeur de cartes en ligne [sign up here - free](https://carto.com/signup/)
 
-**! To save time during the workshop, register to jsfiddle and carto**
+**! Pour gagner du temps au cours de l'atelier, merci de vous inscrire au préalable sur jsfiddle et carto**
 
 ---
 
@@ -38,12 +38,6 @@ We are also going to use:
 - 	dataviz the example of [Highcharts](https://www.highcharts.com/)
 - 	SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
 
-**III. Data and programmming for the web: [30min]**
-
-**A tiny bit of code [20min]**
-- 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
-	+ [Example of JavaSript Language](https://jsfiddle.net/ThomasRoca/50snpv6r/)
-
 **When data comes in [10min]**
 - Data are not only stored in xls!
 	+ Text format to store data:
@@ -63,30 +57,16 @@ We are also going to use:
 -  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
 -  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
 
- 
----
+ ---
 
 
-**Practical: Option A. Create a DataStory with Highcharts and Carto**
+**Practical: Create a DataStory with Highcharts and Carto**
    + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
    It can be about :
    - health
    - Education
    - sociaux economic conditions etc.
    You can use data sources such as the World Bank indicators, UN OCHA HDX platform, etc.
-
---- 
-**Pratical: OPtion B. Use world bank API & the DHS application** 
-- World bank [API](https://datahelpdesk.worldbank.org/knowledgebase/articles/898581-api-basic-call-structure)
-	- GDP growth (annual %) of Kenya (WDI)
-	- last 20 observation
-   	- using highcharts
-- DHS [API](https://api.dhsprogram.com/#/api-querybuilder.cfm)
-	- Create a heatmap using [leaflet](http://leafletjs.com/examples/choropleth/)
-	- display age specific literacy rate 15-19
-	- subnational level in Kenya
-	- for the last DHS available
----   	
 	
 ## Further reading:
 - Friendly, M., 1999, "Re-Visions of Minard", [link](http://www.datavis.ca/gallery/minard/minard.pdf])
