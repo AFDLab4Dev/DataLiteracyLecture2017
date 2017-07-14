@@ -49,10 +49,7 @@ Nous utiliserons également:
 	
 ---
 
-### Part II. 14.00
----
-
-**IV. Getting real time data: from scrapper to API, the data revolution: [20min]**
+**III. Getting real time data: from scrapper to API, the data revolution: [20min]**
 - Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
 -  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
 -  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
